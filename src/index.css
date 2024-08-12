@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.home{
+background-color:rgb(26, 25, 24);
+}
+/* BoxButton.css */
+/* BoxButton.css *//* BoxButton.css *//* BoxButton.css */
+.bluec{
+   background-color: rgb(26,25,54);
+ }
+ .cen{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
